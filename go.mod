@@ -13,7 +13,7 @@ require (
 	github.com/oschwald/geoip2-golang v1.4.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/stretchr/testify v1.5.1
 	go.etcd.io/bbolt v1.3.4
 	go.uber.org/atomic v1.6.0
