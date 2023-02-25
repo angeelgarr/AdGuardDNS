@@ -17,8 +17,8 @@ require (
 	github.com/stretchr/testify v1.5.1
 	go.etcd.io/bbolt v1.3.4
 	go.uber.org/atomic v1.6.0
-	golang.org/x/net v0.0.0-20201021035429-f5854403a974
-	golang.org/x/tools v0.0.0-20201028025901-8cd080b735b3 // indirect
+	golang.org/x/net v0.7.0
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 )
 
 replace github.com/coredns/coredns => github.com/ameshkov/coredns v1.2.5-0.20201214113603-34360d0c4346
